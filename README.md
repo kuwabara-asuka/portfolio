@@ -2,7 +2,7 @@
 
  ★グループ： 26-g003
  
- ★kuwabara-asuka
+ ★GitHubアカウント：kuwabara-asuka
  
 ## このポートフォリオについて
 
